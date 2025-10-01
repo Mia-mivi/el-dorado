@@ -10,4 +10,6 @@ max-width: 90%;
 }
 button{
     background-color: darkgrey;
+    color: ghostwhite;
+    padding: 10px;
 }
